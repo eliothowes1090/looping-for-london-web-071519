@@ -5,5 +5,3 @@ def using_for
   for spell in checklist
     puts "Wingardium Leviosa"
 end
-
-
